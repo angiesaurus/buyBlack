@@ -1,7 +1,7 @@
 {
   "ecommerce": {
     "sources": [
-      "https://www.amazon.com/"
+      "http://www.amazon.com/"
     ],
     "alternatives": [{
       "url": "http://www.jet.com",
@@ -526,10 +526,10 @@
   "shoes": {
     "sources": [],
     "alternatives": [{
-      "url": "www.oneunited.com/",
+      "url": "http://www.oneunited.com/",
       "name": "One United"
     }, {
-      "url": "www.citizensbank.com/",
+      "url": "http://www.citizensbank.com/",
       "name": "Citizens Bank"
     }]
   },
@@ -552,10 +552,10 @@
   "social_network": {
     "sources": [],
     "alternatives": [{
-      "url": "www.nubianplanet.com",
+      "url": "http://www.nubianplanet.com",
       "name": "Nubian Planet"
     }, {
-      "url": "www.blackinamerica.com",
+      "url": "http://www.blackinamerica.com",
       "name": "Black in America"
     }]
   },
@@ -566,27 +566,27 @@
   "financial_media": {
     "sources": [],
     "alternatives": [{
-      "url": "www.financialjuneteenth.com",
+      "url": "http://www.financialjuneteenth.com",
       "name": "Financial Junteenth"
     }]
   },
   "fashion": {
     "sources": [],
     "alternatives": [{
-      "url": "www.essense.com",
+      "url": "http://www.essense.com",
       "name": "Essense"
     }, {
-      "url": "www.ebony.com",
+      "url": "http://www.ebony.com",
       "name": "Ebony"
     }]
   },
   "celebrity_blogs": {
     "sources": [],
     "alternatives": [{
-      "url": "www.mediatakeout.com",
+      "url": "http://www.mediatakeout.com",
       "name": "Mediatakeout"
     }, {
-      "url": "www.bossip.com",
+      "url": "http://www.bossip.com",
       "name": "Bossip"
     }, {
       "url": "http://www.centrictv.com/",
@@ -612,7 +612,7 @@
   "snacks_and_treats": {
     "sources": [],
     "alternatives": [{
-      "url": "favorabletreats.com",
+      "url": "http://favorabletreats.com",
       "name": "Favorable Treats"
     }, {
       "url": "http://www.loadebar.com/www",
