@@ -667,6 +667,19 @@
       "url": "http://www.beedvine.com/",
       "name": "Bee D'Vine"
     }]
+  },
+  "watches": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://banneker1753.com",
+      "name": "Banneker"
+    }, {
+      "url": "http://www.talleyandtwine.com",
+      "name": "Talley and Twine"
+    }, {
+      "url": "http://www.springbreakwatches.com",
+      "name": "Spring Break Watches"
+    }]
   }
 
 }
