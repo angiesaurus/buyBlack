@@ -16,7 +16,11 @@
   },
 
   "health_beauty": {
-    "sources": [],
+    "sources": [
+      "http://www.sephora.com",
+      "http://www.ulta.com",
+      "http://www.maccosmetics.com"
+    ],
     "alternatives": [{
       "url": "https://www.scotchporter.com/",
       "name": "Scotch & Porter"
