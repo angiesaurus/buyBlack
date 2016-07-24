@@ -1,0 +1,672 @@
+{
+  "ecommerce": {
+    "sources": [
+      "https://www.amazon.com/"
+    ],
+    "alternatives": [{
+      "url": "http://www.jet.com",
+      "name": "jet.com"
+    }, {
+      "url": "http://www.buy.com",
+      "name": "buy.com"
+    }, {
+      "url": "http://www.etsy.com",
+      "name": "etsy.com"
+    }]
+  },
+
+  "health_beauty": {
+    "sources": [],
+    "alternatives": [{
+      "url": "https://www.scotchporter.com/",
+      "name": "Scotch & Porter"
+    }, {
+      "url": "https://www.etsy.com/shop/FolieApothecary?ref=search_shop_redirect",
+      "name": "Folie"
+    }, {
+      "url": "https://www.joshicabeauty.com/",
+      "name": "Joshica Beauty"
+    }, {
+      "url": "https://thelipbar.com/",
+      "name": "The Lip Bar"
+    }, {
+      "url": "https://getbevel.com/",
+      "name": "Bevel"
+    }, {
+      "url": "http://www.elolipcare.com/products/",
+      "name": "Elo Lip Care"
+    }, {
+      "url": "https://www.mischobeauty.com",
+      "name": "Mischo Beauty"
+    }, {
+      "url": "http://www.oyinhandmade.com",
+      "name": "Oyin Handmade"
+    }, {
+      "url": "http://eden-bodyworks.myshopify.com/password",
+      "name": "Eden Bodyworks"
+    }, {
+      "url": "http://beijaflornaturals.com",
+      "name": "Beija Flor"
+    }, {
+      "url": "http://harlemsoap.bigcartel.com/products",
+      "name": "Harlem Soap"
+    }, {
+      "url": "http://www.gingerandliz.com/default.asp",
+      "name": "Ginger and Liz"
+    }, {
+      "url": "https://www.boldenusa.com",
+      "name": "Bolden"
+    }, {
+      "url": "http://www.siennanaturals.com",
+      "name": "Sienna Naturals"
+    }, {
+      "url": "http://briogeohair.com",
+      "name": "Briogeo"
+    }, {
+      "url": "http://www.naturalhair.org",
+      "name": "Talia Waajid"
+    }, {
+      "url": "http://www.qhemetbiologics.com",
+      "name": "Qhemet Biologics"
+    }, {
+      "url": "http://ajcrimson.com",
+      "name": "AJ Crimson"
+    }, {
+      "url": "http://www.bellebutters.com/product/lady-belle-roller-ball",
+      "name": "Belle Butters"
+    }, {
+      "url": "https://www.goldlabelcosmetics.com/",
+      "name": "Gold Label Cosmetics"
+    }, {
+      "url": "http://www.theluxbee.com",
+      "name": "Bee Lux"
+    }, {
+      "url": "https://www.nubianheritage.com",
+      "name": "Nubian Heritage"
+    }, {
+      "url": "http://www.shopthebalm.co",
+      "name": "Balm and Co"
+    }, {
+      "url": "http://www.blainelorenn.com",
+      "name": "Blaine Lorenn"
+    }, {
+      "url": "http://www.veramoorecosmetics.com/",
+      "name": "Vera Moore"
+    }, {
+      "url": "http://www.mielleorganics.com/",
+      "name": "Mielle Organics"
+    }, {
+      "url": "http://janessaco.com/",
+      "name": "Janessa & Co"
+    }, {
+      "url": "http://www.yourtemplezen.com/",
+      "name": "Temple Zen"
+    }, {
+      "url": "http://www.colouredraine.com/",
+      "name": "Coloured Raine Cosmetics"
+    }, {
+      "url": "http://www.getyournailsdid.com/",
+      "name": "D.I.D. Nails"
+    }, {
+      "url": "http://www.profixxpigment.com/",
+      "name": "ProFixx Pigments"
+    }, {
+      "url": "http://www.zandrabeauty.com/",
+      "name": "Zandra Beauty"
+    }, {
+      "url": "http://www.tenderorganics.com/shop",
+      "name": "Tender Organics"
+    }, {
+      "url": "http://www.evoketouch.com/shop/",
+      "name": "Evoke Touch"
+    }, {
+      "url": "http://www.reciprocitee.com/products",
+      "name": "Receprocitee"
+    }, {
+      "url": "https://www.etsy.com/shop/BUTTAHBABEZLLC",
+      "name": "Buttah Babez"
+    }, {
+      "url": "http://lanikailashes.bigcartel.com/products",
+      "name": "Lanikai Lashes"
+    }, {
+      "url": "http://shopimyb.com/",
+      "name": "I Make You Beautiful Cosmetics"
+    }, {
+      "url": "https://squareup.com/market/liscious-collections",
+      "name": "Liscious Beauty"
+    }, {
+      "url": "http://www.laurennapier.com/",
+      "name": "Cleanse Face Wipes"
+    }, {
+      "url": "http://www.lipfetishcosmetics.com/",
+      "name": "Lip Fetish"
+    }, {
+      "url": "http://www.mdmflow.com/",
+      "name": "MDMFlow Lipsticks"
+    }, {
+      "url": "http://www.breukelenpolished.com/",
+      "name": "Breukelen Polished"
+    }, {
+      "url": "http://kbodycreations.com/",
+      "name": "K Body Creations"
+    }, {
+      "url": "http://www.savageglow.com/",
+      "name": "Savage Glow"
+    }, {
+      "url": "http://www.meauxmoisture.com/",
+      "name": "Meaux Moisture"
+    }, {
+      "url": "http://naturalicious.net/",
+      "name": "Naturalicious"
+    }, {
+      "url": "http://www.kyrasheamedleys.com/",
+      "name": "Kyra Shea Medleys"
+    }, {
+      "url": "http://www.hellovee.com/",
+      "name": "Vee + Co"
+    }, {
+      "url": "http://www.eugeniashea.org/",
+      "name": "Eu'Genia Shea"
+    }, {
+      "url": "http://www.floandtheo.com/",
+      "name": "flo + theo"
+    }, {
+      "url": "http://namacollection.com/",
+      "name": "Nama Collection"
+    }, {
+      "url": "http://www.imancollection.com",
+      "name": "Iman Collection"
+    }, {
+      "url": "http://www.fashionfair.com/index.php",
+      "name": "Fashion Fair"
+    }, {
+      "url": "http://www.curls.biz/",
+      "name": "Curls"
+    }, {
+      "url": "http://www.sheamoisture.com/",
+      "name": "Shea Moisture"
+    }, {
+      "url": "http://www.magnoliamakeup.com/",
+      "name": "Magnolia Makeup"
+    }, {
+      "url": "http://www.blackopalbeauty.com/",
+      "name": "Black Opal"
+    }, {
+      "url": "http://missjessies.com/",
+      "name": "Miss Jessies"
+    }]
+  },
+  "accessories": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.84gem.com",
+      "name": "84 Gem"
+    }, {
+      "url": "http://www.aaksonline.com/shop/",
+      "name": "AAKS handbags"
+    }, {
+      "url": "http://www.adorenewyork.us/new-products/phantom-mini",
+      "name": "Adore New York"
+    }, {
+      "url": "http://adornedbychi.com/",
+      "name": "Adorned by Chi"
+    }, {
+      "url": "http://www.aiirkey.com",
+      "name": "Aiirkey"
+    }, {
+      "url": "http://www.alora.ca",
+      "name": "Alora"
+    }, {
+      "url": "http://www.arimasjewelry.com/",
+      "name": "Arimas Jewelry"
+    }, {
+      "url": "http://www.artistameshia.com/",
+      "name": "Artist Ameshia"
+    }, {
+      "url": "http://www.baydiancollection.com/",
+      "name": "Baydian Collection"
+    }, {
+      "url": "http://beadsbyaree.com/collections/all",
+      "name": "Beads Byaree"
+    }, {
+      "url": "http://bohten.com/collections/frontpage",
+      "name": "Bohten"
+    }, {
+      "url": "http://bravechick.com/",
+      "name": "Brave Chick (jewelry)"
+    }, {
+      "url": "http://cocoandbreezy.com/",
+      "name": "Coco and Breezy"
+    }, {
+      "url": "http://www.dopecrochet.com/",
+      "name": "Dope Crochet"
+    }, {
+      "url": "http://doubleclutched.com/",
+      "name": "Double Clutched"
+    }, {
+      "url": "http://www.fanmdjanm.com/",
+      "name": "Fanm Janm"
+    }, {
+      "url": "http://www.fromharlemwithlove.com/",
+      "name": "Hecho en Harlem"
+    }, {
+      "url": "http://www.indiviju.co/",
+      "name": "INDIVIJU"
+    }, {
+      "url": "http://www.monaaonline.com/",
+      "name": "Monaa"
+    }, {
+      "url": "http://jenhewett.com/",
+      "name": "Jen Hewett"
+    }, {
+      "url": "https://squareup.com/market/kaderique",
+      "name": "Kaderique Jewelry"
+    }, {
+      "url": "https://www.etsy.com/shop/KADOKELE",
+      "name": "Kado Kele"
+    }, {
+      "url": "http://kashmirviii.bigcartel.com/",
+      "name": "Kashmir VIII"
+    }, {
+      "url": "http://www.kellemiles.com/",
+      "name": "Kelle Miles"
+    }, {
+      "url": "http://kuumbajewelry.wix.com/kuumba-jewelry",
+      "name": "Kuumba Jewelry"
+    }, {
+      "url": "http://lateefaccessories.com/",
+      "name": "Lateef Accessories"
+    }, {
+      "url": "http://www.lorrainewestjewelry.com/",
+      "name": "Lorraine West Jewelry"
+    }, {
+      "url": "http://www.lostqueens.com/",
+      "name": "Lost Queens"
+    }, {
+      "url": "http://lovecortnie.com/",
+      "name": "Love Cortnie"
+    }, {
+      "url": "http://peaceimages.bigcartel.com/",
+      "name": "Peace Images"
+    }, {
+      "url": "http://prettybull.com/",
+      "name": "Pretty Bull"
+    }, {
+      "url": "http://protectyourmagic.bigcartel.com/products",
+      "name": "Protect Your Magic"
+    }, {
+      "url": "http://www.quellyrue.com/collections/jewelry/products/daily-reminder-krobo-bracelet",
+      "name": "Quelly Rue"
+    }, {
+      "url": "http://rachelstewartjewelry.com/product/half-moon-clutch",
+      "name": "Rachel Stewart Jewelry"
+    }, {
+      "url": "http://www.sahgol.co/",
+      "name": "Sahgol"
+    }, {
+      "url": "http://sheye.myshopify.com/collections",
+      "name": "Sheye"
+    }, {
+      "url": "http://www.teesinthetrap.com/",
+      "name": "Tees in the Trap"
+    }, {
+      "url": "http://thewrap.life/",
+      "name": "The Wrap Life"
+    }, {
+      "url": "http://www.redbubble.com/people/veronicamarche/works/15274143-how-to-be-curly-allover?c=396934-makeup-pouches&p=pouch&ref=work_collections_grid",
+      "name": "Veronica Marche"
+    }, {
+      "url": "http://tinsel.me/shop",
+      "name": "Tinsel"
+    }, {
+      "url": "http://www.maisontnemnroda.com/",
+      "name": "tnemnroda"
+    }, {
+      "url": "http://www.vellamode.com/",
+      "name": "Vella Mode Jewelry"
+    }]
+  },
+  "home_goods": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.thevintagevogue.com/shop/",
+      "name": "The Vintage Vogue"
+    }, {
+      "url": "http://ladydyeyarns.com/",
+      "name": "Lady Dye Yarns "
+    }, {
+      "url": "http://inspirado.co/",
+      "name": "Inspirado "
+    }, {
+      "url": "https://www.etsy.com/shop/AllyElleCards",
+      "name": "Ally Elle Cards"
+    }, {
+      "url": "http://www.effiespaper.com/",
+      "name": "Effie's Paper"
+    }, {
+      "url": "http://www.tactilematter.com/",
+      "name": "Tactile Matter"
+    }, {
+      "url": "http://www.cardsforallpeople.com/",
+      "name": "Cards for All People"
+    }, {
+      "url": "http://boleroadtextiles.com/collections/all",
+      "name": "Bole Road Textiles"
+    }, {
+      "url": "https://www.etsy.com/shop/potterybyosa",
+      "name": "Pottery by Osa"
+    }, {
+      "url": "http://www.hellointerwoven.com/",
+      "name": "InterWoven"
+    }, {
+      "url": "http://www.maebonline.com/collections/mae-b-paper",
+      "name": "Mae B Paper"
+    }, {
+      "url": "http://www.shopredvelvetpaperie.com/wholesale/",
+      "name": "Red Velvet Paperie"
+    }, {
+      "url": "http://shop.keepchasingthestars.com/",
+      "name": "Keep Chasing the Stars"
+    }, {
+      "url": "https://www.createspace.com/5903799",
+      "name": "NOTE2SELF Meditation Journal"
+    }, {
+      "url": "http://justaddhoney.net/",
+      "name": "Just Add Honey"
+    }, {
+      "url": "http://www.khristianahowell.com/",
+      "name": "Khristian A Howell"
+    }, {
+      "url": "http://www.ujamaabox.com",
+      "name": "Ujamaa Box"
+    }, {
+      "url": "http://www.pardonmyfro.com/",
+      "name": "Pardon My Fro"
+    }, {
+      "url": "https://www.maleneb.com/",
+      "name": "Malene B"
+    }, {
+      "url": "http://www.peaceandriot.com/",
+      "name": "Peach and Riot"
+    }, {
+      "url": "http://inspirado.co",
+      "name": "Inspirado "
+    }]
+  },
+  "household_cleaning_products": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.freedompapercompany.com/",
+      "name": "Freedom Paper Company"
+    }, {
+      "url": "http://www.thetrueproducts.com/",
+      "name": "The True Products"
+    }]
+  },
+  "mens_clothing": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.seanjohn.com",
+      "name": "Sean John"
+    }, {
+      "url": "http://www.fubu.com",
+      "name": "Fubu"
+    }, {
+      "url": "http://www.agiandsam.com/",
+      "name": "Agi and Sam"
+    }, {
+      "url": "http://bantuwax.com/",
+      "name": "Bantu Wax"
+    }, {
+      "url": "http://blkkangaroo.com/pages/home",
+      "name": "Blkkangaroo"
+    }, {
+      "url": "http://botilam.com/",
+      "name": "Bot I Lam"
+    }, {
+      "url": "http://www.chelseabravo.com/#001",
+      "name": "Chelsea Bravo"
+    }, {
+      "url": "https://www.hoodbyair.com/",
+      "name": "Hood By Air"
+    }, {
+      "url": "http://www.laurenceairline.com/",
+      "name": "Laurence Airline"
+    }, {
+      "url": "http://publicschoolnyc.com/",
+      "name": "Public School"
+    }, {
+      "url": "http://koolnerdclothing.myshopify.com",
+      "name": "Kool Nerd Clothing"
+    }, {
+      "url": "http://mdtclothier.com",
+      "name": "Martin De Tours"
+    }, {
+      "url": "http://thebkcircus.com",
+      "name": "The Brookly Circus"
+    }, {
+      "url": "https://www.dopeciety.com/",
+      "name": "Dopeciety"
+    }]
+  },
+  "kids_clothing": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.isossychildren.com",
+      "name": "Issoy Children"
+    }, {
+      "url": "http://www.yinibinibaby.com/shop/",
+      "name": "Yinibini Baby"
+    }, {
+      "url": "http://www.mixedupclothing.com",
+      "name": "Mixed Up Clothing"
+    }, {
+      "url": "http://www.gbekembe.com",
+      "name": "Gbekembe"
+    }]
+  },
+  "lingerie_and_swim": {
+    "sources": [],
+    "alternatives": [{
+      "url": "https://www.spreesy.com/AVIDSWIM",
+      "name": "Spreesy"
+    }, {
+      "url": "https://www.nubianskin.com/",
+      "name": "Nubian Skin"
+    }, {
+      "url": "http://nudebarre.com",
+      "name": "Nude Barre"
+    }, {
+      "url": "http://ericam.com/shop.php",
+      "name": "Erica M"
+    }, {
+      "url": "http://www.you-lingerie.com",
+      "name": "You Lingerie"
+    }, {
+      "url": "http://www.thenewsuzy.com",
+      "name": "Suzy Black"
+    }]
+  },
+  "lingerie_and_swim": {
+    "sources": [],
+    "alternatives": [{
+      "url": "https://www.spreesy.com/AVIDSWIM",
+      "name": "Spreesy"
+    }, {
+      "url": "https://www.nubianskin.com/",
+      "name": "Nubian Skin"
+    }, {
+      "url": "http://nudebarre.com",
+      "name": "Nude Barre"
+    }, {
+      "url": "http://ericam.com/shop.php",
+      "name": "Erica M"
+    }, {
+      "url": "http://www.you-lingerie.com",
+      "name": "You Lingerie"
+    }, {
+      "url": "http://www.thenewsuzy.com",
+      "name": "Suzy Black"
+    }]
+  },
+  "athletic_wear": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://blackgirlsrun.com/collections/all",
+      "name": "Black Girls Run"
+    }]
+  },
+  "shoes": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://armando-cabral.com/",
+      "name": "Armando Cabral"
+    }]
+  },
+  "shoes": {
+    "sources": [],
+    "alternatives": [{
+      "url": "www.oneunited.com/",
+      "name": "One United"
+    }, {
+      "url": "www.citizensbank.com/",
+      "name": "Citizens Bank"
+    }]
+  },
+  "news_media": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.theroot.com",
+      "name": "The Root"
+    }, {
+      "url": "http://www.blacknews.com",
+      "name": "Black News"
+    }, {
+      "url": "http://thegrio.com",
+      "name": "The Grio"
+    }, {
+      "url": "http://newsone.com",
+      "name": "News One"
+    }]
+  },
+  "social_network": {
+    "sources": [],
+    "alternatives": [{
+      "url": "www.nubianplanet.com",
+      "name": "Nubian Planet"
+    }, {
+      "url": "www.blackinamerica.com",
+      "name": "Black in America"
+    }]
+  },
+  "travel": {
+    "sources": [],
+    "alternatives": []
+  },
+  "financial_media": {
+    "sources": [],
+    "alternatives": [{
+      "url": "www.financialjuneteenth.com",
+      "name": "Financial Junteenth"
+    }]
+  },
+  "fashion": {
+    "sources": [],
+    "alternatives": [{
+      "url": "www.essense.com",
+      "name": "Essense"
+    }, {
+      "url": "www.ebony.com",
+      "name": "Ebony"
+    }]
+  },
+  "celebrity_blogs": {
+    "sources": [],
+    "alternatives": [{
+      "url": "www.mediatakeout.com",
+      "name": "Mediatakeout"
+    }, {
+      "url": "www.bossip.com",
+      "name": "Bossip"
+    }, {
+      "url": "http://www.centrictv.com/",
+      "name": "Centric TV"
+    }]
+  },
+  "marketplace_stores": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://cosmicmedium.storenvy.com/",
+      "name": "Cosmic Medium"
+    }, {
+      "url": "http://citizins.bigcartel.com/",
+      "name": "Citizins"
+    }, {
+      "url": "http://www.ikeslimster.com/",
+      "name": "Ike Slimster"
+    }, {
+      "url": "http://www.huemanbookstore.com/",
+      "name": "Hueman Bookstore"
+    }]
+  },
+  "snacks_and_treats": {
+    "sources": [],
+    "alternatives": [{
+      "url": "favorabletreats.com",
+      "name": "Favorable Treats"
+    }, {
+      "url": "http://www.loadebar.com/www",
+      "name": "Loadebar"
+    }]
+  },
+  "bookstores": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.huemanbookstore.com/",
+      "name": "Humane Bookstore"
+    }, {
+      "url": "http://www.justusbooksonlinestore.com/",
+      "name": "Justus Books"
+    }, {
+      "url": "http://www.esowonbookstore.com",
+      "name": "Eswon Bookstore"
+    }, {
+      "url": "http://www.blackbooksdirect.com",
+      "name": "Black Books Direct"
+    }]
+  },
+  "tea": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.possibiliteas.co/",
+      "name": "Possibiliteas"
+    }, {
+      "url": "http://www.sorentea.com",
+      "name": "Sorentea"
+    }, {
+      "url": "http://www.wystonestea.com",
+      "name": "Wystone's World Tea"
+    }]
+  },
+  "wine": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.heritagelinkbrands.com",
+      "name": "Heritage Link Brands"
+    }, {
+      "url": "http://www.beedvine.com/",
+      "name": "Bee D'Vine"
+    }]
+  },
+  "baby": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.heritagelinkbrands.com",
+      "name": "Heritage Link Brands"
+    }, {
+      "url": "http://www.beedvine.com/",
+      "name": "Bee D'Vine"
+    }]
+  }
+
+}
