@@ -61,6 +61,6 @@ fetch(url)
   });
 
 })
-.catch(console.log)
+.catch(e => console.error(e))
 
 
