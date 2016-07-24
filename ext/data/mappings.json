@@ -693,6 +693,16 @@
       "url": "http://www.abcmeflashcards.com",
       "name": "ABC Me Flashcards"
     }]
+  },
+  "shaving": {
+    "sources": [],
+    "alternatives": [{
+      "url": "https://getbevel.com",
+      "name": "Get Bevel"
+    }, {
+      "url": "https://www.scotchporter.com/",
+      "name": "Scotch & Porter"
+    }]
   }
 
 }
