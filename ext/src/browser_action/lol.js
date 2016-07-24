@@ -1,4 +1,4 @@
-const dataSourceUrl = 'https://gist.githubusercontent.com/jotto/3ac53d5036bafd9c17fc63ecec6ff9f1/raw';
+const dataSourceUrl = '../../data/mappings.json';
 
 // GOOGLE ANALYTICS
 
