@@ -680,6 +680,19 @@
       "url": "http://www.springbreakwatches.com",
       "name": "Spring Break Watches"
     }]
+  },
+  "cards": {
+    "sources": [],
+    "alternatives": [{
+      "url": "http://www.black-cards.com",
+      "name": "Black Cards"
+    }, {
+      "url": "http://www.black-gifts.com",
+      "name": "Black Gifts"
+    }, {
+      "url": "http://www.abcmeflashcards.com",
+      "name": "ABC Me Flashcards"
+    }]
   }
 
 }
