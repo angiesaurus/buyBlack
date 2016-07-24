@@ -3,7 +3,7 @@ const getDomain = url => {
   a.href = url;
 
   if (typeof(a.hostname) === 'string') {
-    return a.hostname.toLowerCase();
+    return a.hostname.toLowerCase().replace(/^www\./, '');
   }
 
   return '';
