@@ -1,4 +1,6 @@
-const url = 'https://gist.githubusercontent.com/jotto/3ac53d5036bafd9c17fc63ecec6ff9f1/raw';
+const dataSourceUrl = 'https://gist.githubusercontent.com/jotto/3ac53d5036bafd9c17fc63ecec6ff9f1/raw';
+
+// HELPERS
 
 const getDomain = url => {
   const a = document.createElement('a');
@@ -12,17 +14,19 @@ const getDomain = url => {
 }
 
 const fixAnchors = () => {
-    var links = document.getElementsByTagName("a");
-    for (var i = 0; i < links.length; i++) {
-        (function () {
-            var ln = links[i];
-            var location = ln.href;
-            ln.onclick = function () {
-                chrome.tabs.create({active: true, url: location});
-            };
-        })();
-    }
+  var links = document.getElementsByTagName("a");
+  for (var i = 0; i < links.length; i++) {
+    (function () {
+      var ln = links[i];
+      var location = ln.href;
+      ln.onclick = function () {
+          chrome.tabs.create({active: true, url: location});
+      };
+    })();
+  }
 }
+
+// VIEW/RENDERING
 
 const renderAlternatives = (currentUrl, alternatives) => {
   let alternativesList = alternatives.map(renderAlternative).join('');
@@ -32,6 +36,8 @@ const renderAlternatives = (currentUrl, alternatives) => {
 const renderAlternative = alternative => {
   return `<li><a href="${alternative.url}">${alternative.name}</a></li>`;
 };
+
+// APPLICATION
 
 const createAlternativeSearch = urlStore => currentUrl => {
   let urls;
@@ -45,26 +51,24 @@ const createAlternativeSearch = urlStore => currentUrl => {
   return urls;
 };
 
-fetch(url)
-.then((response) => response.json())
-.then(createAlternativeSearch)
-.then(getAlternatives => {
-  chrome.tabs.query({ active: true }, (tabs) => {
-    const currentUrl = tabs[0].url;
-    const alternatives = getAlternatives(currentUrl);
-    let html;
+fetch(dataSourceUrl)
+  .then((response) => response.json())
+  .then(createAlternativeSearch)
+  .then(getAlternatives => {
+    chrome.tabs.query({ active: true }, (tabs) => {
+      const currentUrl = tabs[0].url;
+      const alternatives = getAlternatives(currentUrl);
+      let html;
 
-    if (!alternatives) {
-      html = 'no matching urls found';
-    } else {
-      html = renderAlternatives(currentUrl, alternatives);
-    }
+      if (!alternatives) {
+        html = 'no matching websites found';
+      } else {
+        html = renderAlternatives(currentUrl, alternatives);
+      }
 
-    document.getElementById('mainPopup').innerHTML = html;
-    fixAnchors();
-  });
+      document.getElementById('mainPopup').innerHTML = html;
+      fixAnchors();
+    });
 
-})
-.catch(e => console.error(e))
-
-
+  })
+  .catch(e => console.error(e));
