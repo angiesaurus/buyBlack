@@ -780,7 +780,12 @@
     }]
   },
   "baby": {
-    "sources": [],
+    "sources": [
+      "http://www.gerber.com",
+      "http://www.buybuybaby.com",
+      "https://www.earthsbest.com/en/",
+      "http://happyfamilybrands.com"
+    ],
     "alternatives": [{
       "url": "http://www.heritagelinkbrands.com",
       "name": "Heritage Link Brands"
