@@ -611,7 +611,10 @@
     }]
   },
   "news_media": {
-    "sources": [],
+    "sources": [
+      "http://www.buzzfeed.com",
+      "http://www.twitter.com"
+    ],
     "alternatives": [{
       "url": "http://www.theroot.com",
       "name": "The Root"
@@ -627,7 +630,10 @@
     }]
   },
   "social_network": {
-    "sources": [],
+    "sources": [
+      "http://www.facebook.com",
+      "http://www.twitter.com"
+    ],
     "alternatives": [{
       "url": "http://www.nubianplanet.com",
       "name": "Nubian Planet"
@@ -637,18 +643,27 @@
     }]
   },
   "travel": {
-    "sources": [],
+    "sources": [
+      "http://www.aribnb.com"
+    ],
     "alternatives": []
   },
   "financial_media": {
-    "sources": [],
+    "sources": [
+      "http://www.wsj.com",
+      "http://www.money.com"
+    ],
     "alternatives": [{
       "url": "http://www.financialjuneteenth.com",
       "name": "Financial Junteenth"
     }]
   },
   "fashion": {
-    "sources": [],
+    "sources": [
+      "http://www.elle.com",
+      "http://www.cosmopolitan.com",
+      "http://www.glamour.com"
+    ],
     "alternatives": [{
       "url": "http://www.essense.com",
       "name": "Essense"
@@ -658,7 +673,10 @@
     }]
   },
   "celebrity_blogs": {
-    "sources": [],
+    "sources": [
+      "http://www.tmz.com",
+      "http://www.perezhilton.com"
+    ],
     "alternatives": [{
       "url": "http://www.mediatakeout.com",
       "name": "Mediatakeout"
@@ -687,7 +705,13 @@
     }]
   },
   "snacks_and_treats": {
-    "sources": [],
+    "sources": [
+      "http://www.sees.com",
+      "http://www.candywarehouse.com",
+      "https://sweetfactory.com",
+      "https://www.bulkcandystore.com",
+      "https://www.jellybelly.com/shopmain"
+    ],
     "alternatives": [{
       "url": "http://favorabletreats.com",
       "name": "Favorable Treats"
@@ -697,7 +721,12 @@
     }]
   },
   "bookstores": {
-    "sources": [],
+    "sources": [
+      "http://www.barnesandnoble.com/",
+      "http://www.alibris.com/books",
+      "http://www.abebooks.com",
+      "http://www.powells.com"
+    ],
     "alternatives": [{
       "url": "http://www.huemanbookstore.com/",
       "name": "Humane Bookstore"
@@ -713,7 +742,12 @@
     }]
   },
   "tea": {
-    "sources": [],
+    "sources": [
+      "http://www.teavana.com",
+      "http://www.thewhistlingkettle.com",
+      "http://www.adagio.com",
+      "http://www.liptontea.com"
+    ],
     "alternatives": [{
       "url": "http://www.possibiliteas.co/",
       "name": "Possibiliteas"
@@ -726,7 +760,17 @@
     }]
   },
   "wine": {
-    "sources": [],
+    "sources": [
+      "http://www.yellowtailwine.com/yellow-tail-wines/",
+      "http://www.lastbottlewines.com",
+      "http://sommpicks.com",
+      "http://bottlerocket.com",
+      "http://franklywines.com",
+      "http://garagiste.com",
+      "http://chambersstwines.com",
+      "http://winebid.com",
+      "http://amantivino.com"
+    ],
     "alternatives": [{
       "url": "http://www.heritagelinkbrands.com",
       "name": "Heritage Link Brands"
@@ -736,7 +780,12 @@
     }]
   },
   "baby": {
-    "sources": [],
+    "sources": [
+      "http://www.gerber.com",
+      "http://www.buybuybaby.com",
+      "https://www.earthsbest.com/en/",
+      "http://happyfamilybrands.com"
+    ],
     "alternatives": [{
       "url": "http://www.heritagelinkbrands.com",
       "name": "Heritage Link Brands"
@@ -746,7 +795,14 @@
     }]
   },
   "watches": {
-    "sources": [],
+    "sources": [
+      "https://www.rolex.com",
+      "http://www.timex.com",
+      "https://www.omegawatches.com",
+      "http://www.iwc.com/en/",
+      "https://www.breitling.com/en/",
+      "http://www.franckmuller.com"
+    ],
     "alternatives": [{
       "url": "http://banneker1753.com",
       "name": "Banneker"
@@ -759,7 +815,10 @@
     }]
   },
   "cards": {
-    "sources": [],
+    "sources": [
+      "http://www.hallmark.com",
+      "http://www.americangreetings.com"
+    ],
     "alternatives": [{
       "url": "http://www.black-cards.com",
       "name": "Black Cards"
@@ -772,7 +831,15 @@
     }]
   },
   "shaving": {
-    "sources": [],
+    "sources": [
+      "http://www.theartofshaving.com",
+      "http://gillette.com/en-us",
+      "http://www.westcoastshaving.com",
+      "http://www.realshaving.com",
+      "http://www.muehle-shaving.com",
+      "http://www.classicshaving.com",
+      "https://www.harrys.com"
+    ],
     "alternatives": [{
       "url": "https://getbevel.com",
       "name": "Get Bevel"
