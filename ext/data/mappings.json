@@ -594,7 +594,11 @@
     }]
   },
   "shoes": {
-    "sources": [],
+    "sources": [
+      "http://www.reebok.com",
+      "http://www.adidas.com/us/",
+      "http://www.nike.com"
+    ],
     "alternatives": [{
       "url": "http://armando-cabral.com/",
       "name": "Armando Cabral"
