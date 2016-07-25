@@ -398,7 +398,18 @@
     }]
   },
   "womens_clothing": {
-    "sources": [],
+    "sources": [
+      "http://www.forever21.com",
+      "http://www.bebe.com",
+      "http://www.express.com",
+      "http://www.anthropologie.com",
+      "http://www.jcrew.com",
+      "http://www.asos.com/",
+      "http://www.modcloth.com",
+      "http://www.nastygal.com",
+      "http://www.saksfifthavenue.com/",
+      "http://shop.nordstrom.com"
+    ],
     "alternatives": [
       { "url": "https://www.aleapofstyle.com/", "name": "A Leap of Style"},
       { "url": "http://asikereafana.com/", "name": "Asikere Afana"},
