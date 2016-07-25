@@ -583,7 +583,11 @@
     }]
   },
   "athletic_wear": {
-    "sources": [],
+    "sources": [
+      "http://www.nike.com",
+      "http://www.reebok.com",
+      "http://www.adidas.com/us/"
+    ],
     "alternatives": [{
       "url": "http://blackgirlsrun.com/collections/all",
       "name": "Black Girls Run"
