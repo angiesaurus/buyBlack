@@ -815,7 +815,10 @@
     }]
   },
   "cards": {
-    "sources": [],
+    "sources": [
+      "http://www.hallmark.com",
+      "http://www.americangreetings.com"
+    ],
     "alternatives": [{
       "url": "http://www.black-cards.com",
       "name": "Black Cards"
