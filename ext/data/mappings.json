@@ -721,7 +721,12 @@
     }]
   },
   "bookstores": {
-    "sources": [],
+    "sources": [
+      "http://www.barnesandnoble.com/",
+      "http://www.alibris.com/books",
+      "http://www.abebooks.com",
+      "http://www.powells.com"
+    ],
     "alternatives": [{
       "url": "http://www.huemanbookstore.com/",
       "name": "Humane Bookstore"
