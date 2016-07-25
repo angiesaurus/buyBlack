@@ -831,7 +831,15 @@
     }]
   },
   "shaving": {
-    "sources": [],
+    "sources": [
+      "http://www.theartofshaving.com",
+      "http://gillette.com/en-us",
+      "http://www.westcoastshaving.com",
+      "http://www.realshaving.com",
+      "http://www.muehle-shaving.com",
+      "http://www.classicshaving.com",
+      "https://www.harrys.com"
+    ],
     "alternatives": [{
       "url": "https://getbevel.com",
       "name": "Get Bevel"
