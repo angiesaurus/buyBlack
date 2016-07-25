@@ -1,20 +1,4 @@
 {
-  "ecommerce": {
-    "sources": [
-      "http://www.amazon.com/"
-    ],
-    "alternatives": [{
-      "url": "http://www.jet.com",
-      "name": "jet.com"
-    }, {
-      "url": "http://www.buy.com",
-      "name": "buy.com"
-    }, {
-      "url": "http://www.etsy.com",
-      "name": "etsy.com"
-    }]
-  },
-
   "health_beauty": {
     "sources": [
       "http://www.sephora.com",
