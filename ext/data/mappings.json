@@ -557,7 +557,11 @@
     }]
   },
   "lingerie_and_swim": {
-    "sources": [],
+    "sources": [
+      "http://www.victoriasecret.com",
+      "http://www.bluefly.com/women/clothing/intimates?referer=cjunction_4441350_11609755_n-vr7kr6pxn--3424419346&partner=Gate_AFF_4441350&utm_medium=affiliate&utm_source=4441350&utm_campaign=11609755&utm_content=n-vr7kr6pxn--3424419346&cm_mmc=cj-_-4441350-_-11609755-_-na",
+      "http://www.nancymeyer.com"
+    ],
     "alternatives": [{
       "url": "https://www.spreesy.com/AVIDSWIM",
       "name": "Spreesy"
