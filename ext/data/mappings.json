@@ -760,7 +760,17 @@
     }]
   },
   "wine": {
-    "sources": [],
+    "sources": [
+      "http://www.yellowtailwine.com/yellow-tail-wines/",
+      "http://www.lastbottlewines.com",
+      "http://sommpicks.com",
+      "http://bottlerocket.com",
+      "http://franklywines.com",
+      "http://garagiste.com",
+      "http://chambersstwines.com",
+      "http://winebid.com",
+      "http://amantivino.com"
+    ],
     "alternatives": [{
       "url": "http://www.heritagelinkbrands.com",
       "name": "Heritage Link Brands"
