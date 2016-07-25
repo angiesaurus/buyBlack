@@ -649,7 +649,10 @@
     "alternatives": []
   },
   "financial_media": {
-    "sources": [],
+    "sources": [
+      "http://www.wsj.com",
+      "http://www.money.com"
+    ],
     "alternatives": [{
       "url": "http://www.financialjuneteenth.com",
       "name": "Financial Junteenth"
