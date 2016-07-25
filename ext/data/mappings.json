@@ -630,7 +630,10 @@
     }]
   },
   "social_network": {
-    "sources": [],
+    "sources": [
+      "http://www.facebook.com",
+      "http://www.twitter.com"
+    ],
     "alternatives": [{
       "url": "http://www.nubianplanet.com",
       "name": "Nubian Planet"
