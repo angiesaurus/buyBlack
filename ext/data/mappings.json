@@ -611,7 +611,10 @@
     }]
   },
   "news_media": {
-    "sources": [],
+    "sources": [
+      "http://www.buzzfeed.com",
+      "http://www.twitter.com"
+    ],
     "alternatives": [{
       "url": "http://www.theroot.com",
       "name": "The Root"
