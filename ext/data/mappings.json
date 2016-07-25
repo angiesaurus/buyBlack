@@ -742,7 +742,12 @@
     }]
   },
   "tea": {
-    "sources": [],
+    "sources": [
+      "http://www.teavana.com",
+      "http://www.thewhistlingkettle.com",
+      "http://www.adagio.com",
+      "http://www.liptontea.com"
+    ],
     "alternatives": [{
       "url": "http://www.possibiliteas.co/",
       "name": "Possibiliteas"
