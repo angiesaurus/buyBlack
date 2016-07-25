@@ -659,7 +659,11 @@
     }]
   },
   "fashion": {
-    "sources": [],
+    "sources": [
+      "http://www.elle.com",
+      "http://www.cosmopolitan.com",
+      "http://www.glamour.com"
+    ],
     "alternatives": [{
       "url": "http://www.essense.com",
       "name": "Essense"
