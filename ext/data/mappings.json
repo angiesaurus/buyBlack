@@ -602,11 +602,7 @@
     "alternatives": [{
       "url": "http://armando-cabral.com/",
       "name": "Armando Cabral"
-    }]
-  },
-  "shoes": {
-    "sources": [],
-    "alternatives": [{
+    },{
       "url": "http://www.oneunited.com/",
       "name": "One United"
     }, {
