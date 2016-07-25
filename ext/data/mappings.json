@@ -538,7 +538,10 @@
     }]
   },
   "kids_clothing": {
-    "sources": [],
+    "sources": [
+      "http://www.teacollection.com",
+      "http://www.crazy8.com/index.jsp"
+    ],
     "alternatives": [{
       "url": "http://www.isossychildren.com",
       "name": "Issoy Children"
