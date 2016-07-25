@@ -643,7 +643,9 @@
     }]
   },
   "travel": {
-    "sources": [],
+    "sources": [
+      "http://www.aribnb.com"
+    ],
     "alternatives": []
   },
   "financial_media": {
