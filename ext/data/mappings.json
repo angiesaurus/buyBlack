@@ -484,7 +484,15 @@
     }]
   },
   "mens_clothing": {
-    "sources": [],
+    "sources": [
+      "http://www.menswarehouse.com",
+      "http://www.jcrew.com",
+      "https://www.mrporter.com",
+      "http://www.tommybahama.com",
+      "http://www.asos.com/",
+      "http://www.saksfifthavenue.com/",
+      "http://shop.nordstrom.com"
+    ],
     "alternatives": [{
       "url": "http://www.seanjohn.com",
       "name": "Sean John"
