@@ -673,7 +673,10 @@
     }]
   },
   "celebrity_blogs": {
-    "sources": [],
+    "sources": [
+      "http://www.tmz.com",
+      "http://www.perezhilton.com"
+    ],
     "alternatives": [{
       "url": "http://www.mediatakeout.com",
       "name": "Mediatakeout"
