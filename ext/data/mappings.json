@@ -795,7 +795,14 @@
     }]
   },
   "watches": {
-    "sources": [],
+    "sources": [
+      "https://www.rolex.com",
+      "http://www.timex.com",
+      "https://www.omegawatches.com",
+      "http://www.iwc.com/en/",
+      "https://www.breitling.com/en/",
+      "http://www.franckmuller.com"
+    ],
     "alternatives": [{
       "url": "http://banneker1753.com",
       "name": "Banneker"
