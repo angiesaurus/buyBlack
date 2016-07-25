@@ -705,7 +705,13 @@
     }]
   },
   "snacks_and_treats": {
-    "sources": [],
+    "sources": [
+      "http://www.sees.com",
+      "http://www.candywarehouse.com",
+      "https://sweetfactory.com",
+      "https://www.bulkcandystore.com",
+      "https://www.jellybelly.com/shopmain"
+    ],
     "alternatives": [{
       "url": "http://favorabletreats.com",
       "name": "Favorable Treats"
