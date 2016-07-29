@@ -56,7 +56,7 @@ const createAlternativeSearch = urlStore => currentUrl => {
 
   Object.keys(urlStore).forEach((genre) => {
     if (urlStore[genre].sources.find(url => getDomain(url) === getDomain(currentUrl))) {
-      urls = urlStore[genre].alternatives;
+      urls = urlStore[genre].alternatives.sort((leftHandSide, rightHandSide) => leftHandSide.name.localeCompare(rightHandSide.name));
     }
   });
 
