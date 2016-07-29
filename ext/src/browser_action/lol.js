@@ -59,12 +59,17 @@ const renderAlternative = alternative => {
 
 // APPLICATION
 
+const urlObjSort = (leftHandSide, rightHandSide) => leftHandSide.name.localeCompare(rightHandSide.name);
+
 const createAlternativeSearch = urlStore => currentUrl => {
   let urls;
 
   Object.keys(urlStore).forEach((genre) => {
-    if (urlStore[genre].sources.find(url => getDomain(url) === getDomain(currentUrl))) {
-      urls = urlStore[genre].alternatives.sort((leftHandSide, rightHandSide) => leftHandSide.name.localeCompare(rightHandSide.name));
+    const sourcesMatch = urlStore[genre].sources.find(url => getDomain(url) === getDomain(currentUrl));
+    const alternativesMatch = urlStore[genre].alternatives.find(urlObj => getDomain(urlObj.url) === getDomain(currentUrl));
+
+    if (sourcesMatch || alternativesMatch) {
+      urls = urlStore[genre].alternatives.sort(urlObjSort);
     }
   });
 
