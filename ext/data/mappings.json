@@ -232,6 +232,9 @@
       "url": "http://doubleclutched.com/",
       "name": "Double Clutched"
     }, {
+      "url": "http://www.endlesscouture.com/",
+      "name": "Endless Couture"
+    }, {
       "url": "http://www.fanmdjanm.com/",
       "name": "Fanm Janm"
     }, {
@@ -454,7 +457,13 @@
       { "url": "http://yetundesarumi.com/", "name": "Yetunde Sarumi"},
       { "url": "https://www.ennyluap.com", "name": "Ennyluap"},
       { "url": "https://ohemaohene.com", "name": "Ohema Ohene"},
-      { "url": "https://yatirclothing.com/collections/all", "name": "Yatir Clothing"}
+      { "url": "https://yatirclothing.com/collections/all", "name": "Yatir Clothing"},
+      { "url": "https://www.joliecoquette.com/", "name": "Jolie Coquette"},
+      { "url": "https://alerojasmine.com/", "name": "ALEROJASMINE"},
+      { "url": "https://www.orchidsandspice.com/", "name": "Orchids and Spice"},
+      { "url": "https://adornedbychi.com/", "name": "Adorned By Chi"},
+      { "url": "http://www.allusionsbyalekay.com/#!explore/rydlk", "name": "Allusions by A. Lekay"},
+      { "url": "https://williamokpo.com/", "name": "William Okpo"}
     ]
   },
   "household_cleaning_products": {
@@ -558,9 +567,15 @@
     }, {
       "url": "http://ericam.com/shop.php",
       "name": "Erica M"
+    }, { 
+      "url": "http://www.allusionsbyalekay.com/#!explore/rydlk", 
+      "name": "Allusions by A. Lekay"
     }, {
       "url": "http://www.you-lingerie.com",
       "name": "You Lingerie"
+    }, {
+      "url": "http://lasnoot.com/shop/",
+      "name": "Snooty Girl"
     }, {
       "url": "http://www.thenewsuzy.com",
       "name": "Suzy Black"
