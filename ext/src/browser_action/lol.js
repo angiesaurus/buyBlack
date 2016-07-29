@@ -67,7 +67,7 @@ fetch(dataSourceUrl)
   .then((response) => response.json())
   .then(createAlternativeSearch)
   .then(getAlternatives => {
-    chrome.tabs.query({ active: true }, (tabs) => {
+    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
       const currentUrl = tabs[0].url;
       const alternatives = getAlternatives(currentUrl);
       let html;
