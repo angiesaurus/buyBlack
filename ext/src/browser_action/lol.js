@@ -40,6 +40,14 @@ const fixAnchors = () => {
 
 // VIEW/RENDERING
 
+const renderNoAlternatives = (sourceUrl) => {
+  return `
+    <div class='no-alternatives'>
+      We don't know of any alternatives to <u>${sourceUrl}</u>, send us suggestions at hello@buyblack.io
+    </div>
+  `;
+}
+
 const renderAlternatives = (currentUrl, alternatives) => {
   let alternativesList = alternatives.map(renderAlternative).join('');
   return `<h1>${getDomain(currentUrl)} alternatives</h1><ul>${alternativesList}</ul>`
@@ -73,7 +81,7 @@ fetch(dataSourceUrl)
       let html;
 
       if (!alternatives) {
-        html = 'no matching websites found';
+        html = renderNoAlternatives(getDomain(currentUrl));
       } else {
         html = renderAlternatives(currentUrl, alternatives);
       }
