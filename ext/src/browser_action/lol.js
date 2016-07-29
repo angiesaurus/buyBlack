@@ -42,6 +42,7 @@ const fixAnchors = () => {
 
 const renderNoAlternatives = (sourceUrl) => {
   return `
+    <h1>no known alternatives</h1>
     <div class='no-alternatives'>
       We don't know of any alternatives to <u>${sourceUrl}</u>, send us suggestions at hello@buyblack.io
     </div>

@@ -1,28 +1,52 @@
 <!doctype html>
 
-<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
 
 <style type="text/css">
+  body {
+    margin: 0;
+  }
 	#mainPopup {
-		padding: 10px;
+		padding: 0;
 		height: 200px;
 		width: 400px;
     font-family: 'Open Sans', sans-serif;
 	}
 	h1 {
 		font-size: 2em;
+    padding: 1em 1em 1em 0.95em;
+    background: #aaa;
+    margin: 0;
 	}
   ul {
     list-style-type: none;
-    padding: 0 0 0 1em;
+    padding: 0;
+    margin: 0;
   }
   ul li {
-    padding: 0 0 0.3em 0;
-    font-size: 1.3em;
+    border-bottom: 1px solid #bbb;
+    color: #777;
+    font-size: 1em;
+
+  }
+  ul li:hover {
+    color: #64A9EE !important;
+    background: #eee;
+  }
+  ul li a {
+    text-decoration: none;
+    font-weight: 700;
+    color: inherit;
+    display: block;
+    padding: 0.8em 0 0.8em 2em;
+  }
+  ul li a:focus {
+    outline: none;
   }
   div.no-alternatives {
     font-size: 1.5em;
     font-weight: bold;
+    padding: 1.5em;
   }
 </style>
 
