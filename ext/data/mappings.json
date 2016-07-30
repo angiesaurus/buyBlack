@@ -196,8 +196,47 @@
       "url": "http://www.adorenewyork.us/new-products/phantom-mini",
       "name": "Adore New York"
     }, {
+      "url": "http://www.posemannequin.com/category/bodycandy",
+      "name": "Couture Mannequin"
+    }, {
+      "url": "https://heyblackgirl.co",
+      "name": "Hey Black Girl"
+    }, {
+      "url": "https://glorijoy.com",
+      "name": "Glori Joy"
+    }, {
+      "url": "http://vinticouture.bigcartel.com/products",
+      "name": "Vinti Couture"
+    }, {
+      "url": "http://www.printedpatternpeople.com/products",
+      "name": "Printed Patterns People"
+    }, {
+      "url": "http://www.shopflyjane.com",
+      "name": "Shop Fly Jane"
+    }, {
+      "url": "http://www.candidartaccessories.com",
+      "name": "Candid Art Accessories"
+    }, {
+      "url": "https://houseofmoruka.com/collections/all",
+      "name": "House of Moruka"
+    }, {
+      "url": "http://classicknessvintage.bigcartel.com/products",
+      "name": "Classickness Vintage"
+    }, {
       "url": "http://adornedbychi.com/",
       "name": "Adorned by Chi"
+    }, {
+      "url": "http://www.amonaiedesigns.com",
+      "name": "A. Monaie Designs"
+    }, {
+      "url": "http://reworkcreative.com/creations.html",
+      "name": "Rework Creative"
+    }, {
+      "url": "http://paigejordanbrand.com/new-products/",
+      "name": "Paige Jordan"
+    }, {
+      "url": "http://www.pureenvyshop.com",
+      "name": "Pure Envy"
     }, {
       "url": "http://www.aiirkey.com",
       "name": "Aiirkey"
@@ -400,6 +439,16 @@
     "alternatives": [
       { "url": "https://www.aleapofstyle.com/", "name": "A Leap of Style"},
       { "url": "http://asikereafana.com/", "name": "Asikere Afana"},
+      { "url": "http://lovefarai.com/shop-galapagos/", "name": "Fara"},
+      { "url": "http://www.shopflyjane.com", "name": "Shop Fly Jane"},
+      { "url": "https://williamokpo.com", "name": "William Okpo"},
+      { "url": "https://heyblackgirl.co", "name": "Hello Black Girl"},
+      { "url": "https://www.dopeciety.com", "name": "Dopeceity"},
+      { "url": "http://www.babaafrik.com/shop/?category=Women", "name": "Babaafrik"},
+      { "url": "http://neobantu.com", "name": "Neobantu"},
+      { "url": "http://www.posemannequin.com/category/tops", "name": "Couture Mannequin"},
+      { "url": "http://www.zelieforshe.com", "name": "Zelie For She"},
+      { "url": "http://monifc.com", "name": "Monif C."},
       { "url": "http://www.arryles.com/", "name": "Ar'ryles"},
       { "url": "http://bantuwax.com/", "name": "Bantu Wax"},
       { "url": "https://www.bestowelan.com/", "name": "Bestow Elan"},
@@ -493,6 +542,9 @@
       "url": "http://www.fubu.com",
       "name": "Fubu"
     }, {
+      "url": "http://www.babaafrik.com/shop/?category=Men",
+      "name": "Babaafrik"
+    }, {
       "url": "http://www.agiandsam.com/",
       "name": "Agi and Sam"
     }, {
@@ -565,6 +617,15 @@
       "url": "http://nudebarre.com",
       "name": "Nude Barre"
     }, {
+      "url": "http://www.printedpatternpeople.com/products",
+      "name": "Printed Patterns People"
+    }, {
+      "url": "https://monifc.com/swimwear.html",
+      "name": "Monif C."
+    }, {
+      "url": "http://lasnoot.com/shop/",
+      "name": "Snooty Girl"
+    }, {
       "url": "http://ericam.com/shop.php",
       "name": "Erica M"
     }, { 
@@ -604,6 +665,9 @@
     },{
       "url": "http://www.oneunited.com/",
       "name": "One United"
+    }, {
+      "url": "http://www.shopflyjane.com/collections/shoes",
+      "name": "Shop Fly Jane"
     }, {
       "url": "http://www.citizensbank.com/",
       "name": "Citizens Bank"
