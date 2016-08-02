@@ -3,7 +3,8 @@
     "sources": [
       "http://www.sephora.com",
       "http://www.ulta.com",
-      "http://www.maccosmetics.com"
+      "http://www.maccosmetics.com",
+      "http://www.thebodyshop-usa.com"
     ],
     "alternatives": [{
       "url": "https://www.scotchporter.com/",
@@ -11,6 +12,9 @@
     }, {
       "url": "https://www.etsy.com/shop/FolieApothecary?ref=search_shop_redirect",
       "name": "Folie"
+    }, {
+      "url": "http://www.bathsavvy.com/Default.asp",
+      "name": "Bath Savvy"
     }, {
       "url": "https://www.joshicabeauty.com/",
       "name": "Joshica Beauty"
@@ -185,7 +189,12 @@
     }]
   },
   "accessories": {
-    "sources": [],
+    "sources": [
+      "http://www.claires.com/us/",
+      "http://www.icing.com/us/",
+      "http://www.charmingcharlie.com",
+      "http://loulouboutiques.com"
+      ],
     "alternatives": [{
       "url": "http://www.84gem.com",
       "name": "84 Gem"
@@ -357,7 +366,12 @@
     }]
   },
   "home_goods": {
-    "sources": [],
+    "sources": [
+      "http://www.hsn.com/shop/home/ho",
+      "http://www.worldmarket.com",
+      "http://www.kohls.com",
+      "http://www.wayfair.com",
+      ],
     "alternatives": [{
       "url": "http://www.thevintagevogue.com/shop/",
       "name": "The Vintage Vogue"
@@ -516,7 +530,10 @@
     ]
   },
   "household_cleaning_products": {
-    "sources": [],
+    "sources": [
+      "http://methodhome.com",
+      "http://www.mrsmeyers.com"
+      ],
     "alternatives": [{
       "url": "http://www.freedompapercompany.com/",
       "name": "Freedom Paper Company"
@@ -676,7 +693,8 @@
   "news_media": {
     "sources": [
       "http://www.buzzfeed.com",
-      "http://www.twitter.com"
+      "http://www.twitter.com",
+      "http://gawker.com"
     ],
     "alternatives": [{
       "url": "http://www.theroot.com",
@@ -738,7 +756,8 @@
   "celebrity_blogs": {
     "sources": [
       "http://www.tmz.com",
-      "http://www.perezhilton.com"
+      "http://www.perezhilton.com",
+      "http://jezebel.com"
     ],
     "alternatives": [{
       "url": "http://www.mediatakeout.com",
@@ -752,7 +771,10 @@
     }]
   },
   "marketplace_stores": {
-    "sources": [],
+    "sources": [
+      "http://www.minted.com",
+      "https://www.artspan.com"
+      ],
     "alternatives": [{
       "url": "http://cosmicmedium.storenvy.com/",
       "name": "Cosmic Medium"
@@ -778,6 +800,12 @@
     "alternatives": [{
       "url": "http://favorabletreats.com",
       "name": "Favorable Treats"
+    }, {
+      "url": "http://www.luxelollies.com",
+      "name": "Luxe Lollies"
+    }, {
+      "url": "http://eandcpopcorn.com",
+      "name": "E & C Popcorn"
     }, {
       "url": "http://www.loadebar.com/www",
       "name": "Loadebar"
