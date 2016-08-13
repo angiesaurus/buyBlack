@@ -5,7 +5,21 @@
       "http://www.ulta.com",
       "http://www.maccosmetics.com",
       "http://www.thebodyshop-usa.com",
-      "http://www.neutrogena.com/home.do"
+      "http://www.neutrogena.com/home.do",
+      "http://www.sallybeauty.com",
+      "http://www.beauty.com",
+      "http://www.beautybay.com",
+      "http://www.kiehls.com",
+      "http://www.bathandbodyworks.com/home/index.jsp",
+      "http://www.elfcosmetics.com",
+      "http://www.ulta.com",
+      "http://www.drugstore.com",
+      "http://www.folica.com",
+      "http://www.nailpolishandmore.com",
+      "http://www.beautystoponline.com",
+      "https://www.shopmissa.com/collections/cosmetics",
+      "http://www.target.com"
+ 
     ],
     "alternatives": [{
       "url": "https://www.scotchporter.com/",
@@ -200,7 +214,12 @@
       "http://www.claires.com/us/",
       "http://www.icing.com/us/",
       "http://www.charmingcharlie.com",
-      "http://loulouboutiques.com"
+      "http://loulouboutiques.com",
+      "http://www.gojane.com/shop-by-category-accessories-all2.html",
+      "https://www.shopversona.com/accessories",
+      "https://www.shopmissa.com/collections/accessories",
+      "http://www.forever21.com/EU/Default.aspx?lang=en-US",
+      "http://www.target.com"
       ],
     "alternatives": [{
       "url": "http://www.84gem.com",
@@ -377,7 +396,8 @@
       "http://www.hsn.com/shop/home/ho",
       "http://www.worldmarket.com",
       "http://www.kohls.com",
-      "http://www.wayfair.com"
+      "http://www.wayfair.com",
+      "http://www.target.com"
       ],
     "alternatives": [{
       "url": "http://www.thevintagevogue.com/shop/",
@@ -458,7 +478,9 @@
       "http://shop.nordstrom.com",
       "http://www.kohls.com",
       "http://www.zara.com/us/",
-      "http://www.hm.com/us/"
+      "http://www.hm.com/us/",
+      "https://www.shopversona.com/apparel",
+      "http://www.target.com"
     ],
     "alternatives": [
       { "url": "https://www.aleapofstyle.com/", "name": "A Leap of Style"},
@@ -563,7 +585,8 @@
       "http://shop.nordstrom.com",
       "http://www.kohls.com",
       "http://www.zara.com/us/",
-      "http://www.hm.com/us/"
+      "http://www.hm.com/us/",
+      "http://www.target.com"
     ],
     "alternatives": [{
       "url": "http://www.seanjohn.com",
@@ -616,7 +639,8 @@
     "sources": [
       "http://www.teacollection.com",
       "http://www.crazy8.com/index.jsp",
-      "http://www.gap.com/products/childrens-clothing.jsp"
+      "http://www.gap.com/products/childrens-clothing.jsp",
+      "http://www.target.com"
     ],
     "alternatives": [{
       "url": "http://www.isossychildren.com",
@@ -694,7 +718,8 @@
       "http://www.reebok.com",
       "http://www.adidas.com/us/",
       "http://www.nike.com",
-      "https://www.skechers.com/en-us/"
+      "https://www.skechers.com/en-us/",
+      "https://www.shopversona.com/shoes"
     ],
     "alternatives": [{
       "url": "http://armando-cabral.com/",
