@@ -758,7 +758,7 @@
       "url": "http://madamenoire.com",
       "name": "Madame Noire"
     }, {
-      "url": "http://verysmartbrothas.com/",
+      "url": "http://verysmartbrothas.com",
       "name": "Very Smart Brothas"
     }, {
       "url": "http://blavity.com",
@@ -767,13 +767,13 @@
       "url": "http://bossip.com",
       "name": "Bossip"
     }, {
-      "url": "http://www.crunkfeministcollective.com/",
+      "url": "http://www.crunkfeministcollective.com",
       "name": "Crunk Feminist Collective"
     }, {
-      "url": "http://www.blackgirldangerous.org/",
+      "url": "http://www.blackgirldangerous.org",
       "name": "Black Girl Dangerous"
     }, {
-      "url": "https://goodblacknews.org/",
+      "url": "https://goodblacknews.org",
       "name": "Good Black News"
     }, {
       "url": "http://newsone.com",
@@ -795,7 +795,7 @@
   },
   "travel": {
     "sources": [
-      "http://www.airbnb.com"
+      "http://www.airbnb.com",
     ],
     "alternatives": []
   },
