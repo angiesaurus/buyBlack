@@ -484,7 +484,7 @@
     ],
     "alternatives": [
       { "url": "https://www.aleapofstyle.com/", "name": "A Leap of Style"},
-      { "url": "https://www.sundrystyle.com/", "name": "Sundry Style"},
+      { "url": "https://www.sundrystyle.com", "name": "Sundry Style"},
       { "url": "http://asikereafana.com/", "name": "Asikere Afana"},
       { "url": "http://lovefarai.com/shop-galapagos/", "name": "Fara"},
       { "url": "http://www.shopflyjane.com", "name": "Shop Fly Jane"},
@@ -736,6 +736,7 @@
       "name": "Citizens Bank"
     }]
   },
+
   "news_media": {
     "sources": [
       "http://www.buzzfeed.com",
@@ -743,7 +744,7 @@
       "http://www.complex.com",
       "http://gawker.com",
       "http://jezebel.com",
-      "http://thoughtcatolog.com",
+      "http://thoughtcatolog.com"
     ],
     "alternatives": [{
       "url": "http://www.theroot.com",
