@@ -484,6 +484,7 @@
     ],
     "alternatives": [
       { "url": "https://www.aleapofstyle.com/", "name": "A Leap of Style"},
+      { "url": "http://www.sundrystyle.com/", "name": "Sundry Style"},
       { "url": "http://asikereafana.com/", "name": "Asikere Afana"},
       { "url": "http://lovefarai.com/shop-galapagos/", "name": "Fara"},
       { "url": "http://www.shopflyjane.com", "name": "Shop Fly Jane"},
@@ -739,7 +740,10 @@
     "sources": [
       "http://www.buzzfeed.com",
       "http://www.twitter.com",
-      "http://gawker.com"
+      "http://gawker.com",
+      "http://www.complex.com/",
+      "http://www.jezebel.com/",
+      "http://thoughtcatalog.com/"
     ],
     "alternatives": [{
       "url": "http://www.theroot.com",
@@ -747,6 +751,27 @@
     }, {
       "url": "http://www.blacknews.com",
       "name": "Black News"
+    }, {
+      "url": "http://madamenoire.com",
+      "name": "Madame Noire"
+    }, {
+      "url": "http://verysmartbrothas.com",
+      "name": "Very Smart Brothas"
+    }, {
+      "url": "http://blavity.com",
+      "name": "Blavity"
+    }, {
+      "url": "http://bossip.com",
+      "name": "Bossip"
+    }, {
+      "url": "http://www.crunkfeministcollective.com",
+      "name": "Crunk Feminist Collective"
+    }, {
+      "url": "http://www.blackgirldangerous.org",
+      "name": "Black Girl Dangerous"
+    }, {
+      "url": "https://goodblacknews.org",
+      "name": "Good Black News"
     }, {
       "url": "http://thegrio.com",
       "name": "The Grio"
@@ -770,7 +795,7 @@
   },
   "travel": {
     "sources": [
-      "http://www.aribnb.com"
+      "http://www.airbnb.com"
     ],
     "alternatives": []
   },
