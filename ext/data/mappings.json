@@ -887,6 +887,21 @@
     "alternatives": [{
       "url": "https://innclusive.com/",
       "name" "Innclusive"
+    }, {
+      "url": "http://www.africanamericaninns.com/inns.html",
+      "name": "African American Inns"
+    }, {
+      "url": "http://www.nomadnesstv.com",
+      "name" "Nomadness Travel Tribe"
+    }, {
+      "url": "http://www.upintheairlife.com/",
+      "name": "Up in the Air Life"
+    }, {
+      "url": "http://bucketlistbeasts.com/bucket-list-beasts/",
+      "name": "Bucket List Beasts"
+    }, {
+      "url": "http://travelnoire.com/",
+      "name": "Travel Noire"
     }]
   },
   "financial_media": {
