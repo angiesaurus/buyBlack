@@ -446,7 +446,6 @@
       "http://www.target.com",
       "https://www.fathead.com/",
       "https://www.muralsyourway.com/",
-      "
       ],
     "alternatives": [{
       "url": "http://www.thevintagevogue.com/shop/",
@@ -1129,7 +1128,7 @@
       "name": "Scotch & Porter"
     }]
   },
-  "adult":{
+  "adult": {
     "sources": [
       "http://www.goodvibes.com",
       "http://www.babeland.com/",
