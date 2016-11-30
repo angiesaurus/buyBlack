@@ -18,8 +18,8 @@
       "http://www.nailpolishandmore.com",
       "http://www.beautystoponline.com",
       "https://www.shopmissa.com/collections/cosmetics",
-      "http://www.target.com"
- 
+      "http://www.target.com",
+      "https://www.birchbox.com/"
     ],
     "alternatives": [{
       "url": "https://www.scotchporter.com/",
@@ -207,6 +207,21 @@
     }, {
       "url": "http://missjessies.com/",
       "name": "Miss Jessies"
+    }, {
+      "url": "https://www.cocotique.com/",
+      "name": "COCOTIQUE"
+    }, {
+      "url": "http://www.curlbox.com",
+      "name": "CURL BOX"
+    }, {
+      "url": "https://www.curlkitshop.com/",
+      "name": "Curl Kit"
+    }, {
+      "url": "http://shop.weareonyx.com/",
+      "name": "We Are Onyx"
+    }, {
+      "url": "http://www.dapperblackbox.com/",
+      "name": "Dapper Black Box"
     }]
   },
   "accessories": {
@@ -389,6 +404,15 @@
     }, {
       "url": "http://www.vellamode.com/",
       "name": "Vella Mode Jewelry"
+    }, {
+      "url": "http://www.vavvoune.com/",
+      "name": "VAVVOUNE"
+    }, {
+      "url": "http://www.coloringpins.com/",
+      "name": "Coloring Pins"
+    }, {
+      "url": "http://www.essencemurjani.com/",
+      "name": "Essence Murjani Jewelry"
     }]
   },
   "home_goods": {
@@ -480,10 +504,16 @@
       "http://www.zara.com/us/",
       "http://www.hm.com/us/",
       "https://www.shopversona.com/apparel",
-      "http://www.target.com"
+      "http://www.target.com",
+      "https://www.victoriassecret.com"
     ],
     "alternatives": [
       { "url": "https://www.aleapofstyle.com/", "name": "A Leap of Style"},
+      { "url": "http://www.curvbellaboutique.com/", "name": "Curv Bella Boutique"},
+      { "url": "http://www.shopthediamond.com/","name": "The Diamond Boutique"},
+      { "url": "https://elevenbyvenuswilliams.com/", "name": "Eleven By Venus Williams"},
+      { "url": "http://herfavoritela.com/","name": "Her Favorite"},
+      { "url": "http://www.blacknugly.com/","name": "black N ugly"},
       { "url": "http://www.sundrystyle.com/", "name": "Sundry Style"},
       { "url": "http://asikereafana.com/", "name": "Asikere Afana"},
       { "url": "http://lovefarai.com/shop-galapagos/", "name": "Fara"},
@@ -634,6 +664,9 @@
     }, {
       "url": "https://www.dopeciety.com/",
       "name": "Dopeciety"
+    }, {
+      "url": "http://www.blacknugly.com/",
+      "name": "black N ugly"
     }]
   },
   "kids_clothing": {
@@ -659,7 +692,7 @@
   },
   "lingerie_and_swim": {
     "sources": [
-      "http://www.victoriasecret.com",
+      "https://www.victoriassecret.com",
       "http://www.bluefly.com/women/clothing/intimates?referer=cjunction_4441350_11609755_n-vr7kr6pxn--3424419346&partner=Gate_AFF_4441350&utm_medium=affiliate&utm_source=4441350&utm_campaign=11609755&utm_content=n-vr7kr6pxn--3424419346&cm_mmc=cj-_-4441350-_-11609755-_-na",
       "http://www.nancymeyer.com",
       "http://www.adoreme.com/bras-and-panties.html",
@@ -669,6 +702,9 @@
     "alternatives": [{
       "url": "https://www.spreesy.com/AVIDSWIM",
       "name": "Spreesy"
+    }, { 
+      "url": "https://elevenbyvenuswilliams.com/", 
+      "name": "Eleven By Venus Williams"
     }, {
       "url": "https://www.nubianskin.com/",
       "name": "Nubian Skin"
@@ -694,9 +730,6 @@
       "url": "http://www.you-lingerie.com",
       "name": "You Lingerie"
     }, {
-      "url": "http://lasnoot.com/shop/",
-      "name": "Snooty Girl"
-    }, {
       "url": "http://www.thenewsuzy.com",
       "name": "Suzy Black"
     }]
@@ -712,6 +745,9 @@
     "alternatives": [{
       "url": "http://blackgirlsrun.com/collections/all",
       "name": "Black Girls Run"
+    }, { 
+      "url": "https://elevenbyvenuswilliams.com/", 
+      "name": "Eleven By Venus Williams"
     }]
   },
   "shoes": {
@@ -938,6 +974,9 @@
     }, {
       "url": "http://www.beedvine.com/",
       "name": "Bee D'Vine"
+    }, {
+      "url": "http://store.bin36.com/",
+      "name": "BIN 36"
     }]
   },
   "baby": {
@@ -945,7 +984,13 @@
       "http://www.gerber.com",
       "http://www.buybuybaby.com",
       "https://www.earthsbest.com/en/",
-      "http://happyfamilybrands.com"
+      "http://happyfamilybrands.com",
+      "http://www.americangirl.com/",
+      "http://barbie.mattel.com/",
+      "https://www.cabbagepatchkids.com/",
+      "https://www.madamealexander.com/",
+      "http://www.ogdolls.com/",
+      "http://maplelea.com/"
     ],
     "alternatives": [{
       "url": "http://www.heritagelinkbrands.com",
@@ -953,6 +998,9 @@
     }, {
       "url": "http://www.beedvine.com/",
       "name": "Bee D'Vine"
+    }, {
+      "url": "http://www.mymusedolls.com/",
+      "name": "My Muse Dolls"
     }]
   },
   "watches": {
