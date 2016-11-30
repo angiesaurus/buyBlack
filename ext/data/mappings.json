@@ -2,6 +2,7 @@
   "health_beauty": {
     "sources": [
       "http://www.sephora.com",
+      "http://www.blackopalbeauty.com/",
       "http://www.ulta.com",
       "http://www.maccosmetics.com",
       "http://www.thebodyshop-usa.com",
@@ -202,9 +203,6 @@
       "url": "http://www.magnoliamakeup.com/",
       "name": "Magnolia Makeup"
     }, {
-      "url": "http://www.blackopalbeauty.com/",
-      "name": "Black Opal"
-    }, {
       "url": "http://missjessies.com/",
       "name": "Miss Jessies"
     }, {
@@ -222,6 +220,27 @@
     }, {
       "url": "http://www.dapperblackbox.com/",
       "name": "Dapper Black Box"
+    }, {
+      "url": "http://www.koilsbynature.com/",
+      "name": "Koils By Nature"
+    }, {
+      "url": "http://www.hydrathermanaturals.com/",
+      "name": "Hydra Therma Naturals"
+    }, {
+      "url": "https://www.camillerosenaturals.com/",
+      "name": "Camille Rose Naturals"
+    }, {
+      "url": "http://madininakiss.com/",
+      "name": "Madinina Kiss"
+    }, {
+      "url": "http://inahsi.com/",
+      "name" "Inahsi"
+    }, {
+      "url": "http://lusciouslathers.com/",
+      "name": "Luscious Lathers"
+    }, {
+      "url": "http://www.simplyallnatural.us/",
+      "name": "Simply All Natural"
     }]
   },
   "accessories": {
@@ -413,6 +432,9 @@
     }, {
       "url": "http://www.essencemurjani.com/",
       "name": "Essence Murjani Jewelry"
+    }, {
+      "url": "https://textilesandalchemy.com/",
+      "name": "Textiles and Alchemy"
     }]
   },
   "home_goods": {
@@ -421,11 +443,17 @@
       "http://www.worldmarket.com",
       "http://www.kohls.com",
       "http://www.wayfair.com",
-      "http://www.target.com"
+      "http://www.target.com",
+      "https://www.fathead.com/",
+      "https://www.muralsyourway.com/",
+      "
       ],
     "alternatives": [{
       "url": "http://www.thevintagevogue.com/shop/",
       "name": "The Vintage Vogue"
+    }, {
+      "url": "http://anitaveetextile.com/",
+      "name": "Anitavee's Home Decor"
     }, {
       "url": "http://ladydyeyarns.com/",
       "name": "Lady Dye Yarns "
@@ -486,6 +514,9 @@
     }, {
       "url": "http://inspirado.co",
       "name": "Inspirado "
+    }, {
+      "url": "https://wemontage.com/",
+      "name" "We Montage"
     }]
   },
   "womens_clothing": {
@@ -732,6 +763,15 @@
     }, {
       "url": "http://www.thenewsuzy.com",
       "name": "Suzy Black"
+    }, {
+      "url": "http://www.bijte.com/",
+      "name": "bijte"
+    }, {
+      "url": "https://urbanintimates.com",
+      "name": "Urban Intimates"
+    }, {
+      "url": "http://just-my-jammies.myshopify.com/",
+      "name": "Just my Jammies"
     }]
   },
   "athletic_wear": {
@@ -740,7 +780,12 @@
       "http://www.reebok.com",
       "http://www.adidas.com/us/",
       "http://shop.lululemon.com",
-      "https://www.underarmour.com/en-us/"
+      "https://www.underarmour.com/en-us/",
+      "https://www.manduka.com/",
+      "http://jadeyoga.com/",
+      "http://www.gaiam.com/",
+      "http://yogamats.com/",
+      "https://www.yogaoutlet.com/"
     ],
     "alternatives": [{
       "url": "http://blackgirlsrun.com/collections/all",
@@ -748,6 +793,9 @@
     }, { 
       "url": "https://elevenbyvenuswilliams.com/", 
       "name": "Eleven By Venus Williams"
+    }, {
+      "url": "http://affirmats.com/",
+      "name": "Affirmats Yoga Mats"
     }]
   },
   "shoes": {
@@ -761,15 +809,18 @@
     "alternatives": [{
       "url": "http://armando-cabral.com/",
       "name": "Armando Cabral"
-    },{
+    }, {
       "url": "http://www.oneunited.com/",
       "name": "One United"
     }, {
       "url": "http://www.shopflyjane.com/collections/shoes",
       "name": "Shop Fly Jane"
     }, {
-      "url": "http://www.citizensbank.com/",
-      "name": "Citizens Bank"
+      "url": "http://www.jahvi3.com/",
+      "name": "JahVi3"
+    }, {
+      "url": "https://burnrubbersneakers.com/",
+      "name": "Burn Rubber Sneakers"
     }]
   },
   "news_media": {
@@ -833,7 +884,10 @@
     "sources": [
       "http://www.airbnb.com"
     ],
-    "alternatives": []
+    "alternatives": [{
+      "url": "https://innclusive.com/",
+      "name" "Innclusive"
+    }]
   },
   "financial_media": {
     "sources": [
@@ -915,6 +969,9 @@
     }, {
       "url": "http://www.loadebar.com/www",
       "name": "Loadebar"
+    }, {
+      "url":"http://www.goodpeoplepopcorn.com/",
+      "name": "Good People Popcorn"
     }]
   },
   "bookstores": {
@@ -1056,6 +1113,23 @@
       "url": "https://www.scotchporter.com/",
       "name": "Scotch & Porter"
     }]
-  }
+  },
+  "adult":{
+    "sources": [
+      "http://www.goodvibes.com",
+      "http://www.babeland.com/",
+      "http://www.edenfantasys.com/",
+      "http://www.lovehoney.com/",
+      "http://www.adamevetoys.com/",
+      "https://www.spencersonline.com/",
+      "http://www.castlemegastore.com/",
+      "http://www.bettersex.com/",
+      "http://www.dearlady.us",
+      "https://www.pinkcherry.com/"
+      ],
+    "alternatives": [{
+      "url": "www.feelmore510.com",
+      "name": "Feelmore Adult Gallery"
+    }]
 
 }
