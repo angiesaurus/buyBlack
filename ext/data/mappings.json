@@ -445,20 +445,17 @@
       "http://www.wayfair.com",
       "http://www.target.com",
       "https://www.fathead.com/",
-      "https://www.muralsyourway.com/",
+      "https://www.muralsyourway.com/"
       ],
     "alternatives": [{
-      "url": "http://www.thevintagevogue.com/shop/",
+      "url": "http://www.thevintagevogue.com/",
       "name": "The Vintage Vogue"
     }, {
       "url": "http://anitaveetextile.com/",
-      "name": "Anitavee's Home Decor"
+      "name": "Anitavees Home Decor"
     }, {
       "url": "http://ladydyeyarns.com/",
       "name": "Lady Dye Yarns "
-    }, {
-      "url": "http://inspirado.co/",
-      "name": "Inspirado "
     }, {
       "url": "https://www.etsy.com/shop/AllyElleCards",
       "name": "Ally Elle Cards"
@@ -727,7 +724,6 @@
       "http://www.nancymeyer.com",
       "http://www.adoreme.com/bras-and-panties.html",
       "https://www.soma.com/store/"
-      
     ],
     "alternatives": [{
       "url": "https://www.spreesy.com/AVIDSWIM",
