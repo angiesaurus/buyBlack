@@ -1123,23 +1123,5 @@
       "url": "https://www.scotchporter.com/",
       "name": "Scotch & Porter"
     }]
-  },
-  "adult": {
-    "sources": [
-      "http://www.goodvibes.com",
-      "http://www.babeland.com/",
-      "http://www.edenfantasys.com/",
-      "http://www.lovehoney.com/",
-      "http://www.adamevetoys.com/",
-      "https://www.spencersonline.com/",
-      "http://www.castlemegastore.com/",
-      "http://www.bettersex.com/",
-      "http://www.dearlady.us",
-      "https://www.pinkcherry.com/"
-      ],
-    "alternatives": [{
-      "url": "www.feelmore510.com",
-      "name": "Feelmore Adult Gallery"
-    }]
   }
 }
